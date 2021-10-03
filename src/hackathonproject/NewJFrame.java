@@ -1,15 +1,5 @@
 package hackathonproject;
 
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
-/**
- *
- * @author Jayke
- */
 public class NewJFrame extends javax.swing.JFrame {
 
     /**
@@ -108,17 +98,15 @@ public class NewJFrame extends javax.swing.JFrame {
         pack();
     }// </editor-fold>//GEN-END:initComponents
 
+    //MODIFY HERE TO INFLUENCE BUTTON ACTIONS
     private void SafetyInfoButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_SafetyInfoButtonActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_SafetyInfoButtonActionPerformed
+    }
 
     private void QuizButtonActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_QuizButtonActionPerformed
         // TODO add your handling code here:
-    }//GEN-LAST:event_QuizButtonActionPerformed
+    }
 
-    /**
-     * @param args the command line arguments
-     */
 
 
     // Variables declaration - do not modify//GEN-BEGIN:variables
