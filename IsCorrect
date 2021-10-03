@@ -1,0 +1,23 @@
+public class IsCorrect
+{
+    public static void main(String[] args)
+    [
+        public void answer()
+        {
+            (ask question)
+            (whatever the user clicks on)=answer;
+            correct(answer);
+        }
+        private void correct(char correctanswer, char answer)
+        {
+            if(answer==correct answer)
+                System.out.println("Good Job! That is correct!");
+            else
+            {
+                System.out.println("Sorry. Try again.");
+                answer();
+                correct();
+            }
+        }
+    }
+}
